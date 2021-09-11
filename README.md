@@ -10,8 +10,10 @@ Specifically, I removed all the 9th grade test scores from Thomas High School, w
 ### How is the district summary affected?
 The district summary was affected by higher overall test scores. 
 
+#### Original District Summary
 ![Original District Summary.png](https://github.com/melaniekelsey/School_District_Analysis/blob/main/Resources/Original%20District%20Summary.png)
 
+#### Revised District Summary
 ![Revised District Summary.png](https://github.com/melaniekelsey/School_District_Analysis/blob/main/Resources/Revised%20District%20Summary.png)
 
 #### % Passing Math
@@ -31,8 +33,10 @@ Removing those instances of cheating showed that the students that were not chea
 ### How is the school summary affected?
 Thomas High School scores rose significantly when you removed the 9th grade scores. 
 
+#### Original School Summary
 ![Per School Summary Original.png](https://github.com/melaniekelsey/School_District_Analysis/blob/main/Resources/Per%20School%20Summary%20Original.png)
 
+#### Revised School Summary
 ![Per School Summary Revised.png](https://github.com/melaniekelsey/School_District_Analysis/blob/main/Resources/Per%20School%20Summary%20Revised.png)
 
 #### % Passing Math
@@ -53,9 +57,13 @@ Thomas High School scores rose significantly when you removed the 9th grade scor
 Thomas High School seems to be doing things right in terms of test preparation for the 10-12th grade students.
 
 #### Overall Ranking
-![Top 5 High Performing Schools Original.png](https://github.com/melaniekelsey/School_District_Analysis/blob/main/Resources/Top%205%High%20Performing%20Schools%20Original.png)
+Thomas High School moves into the ranking as the 2nd Highest Performing School in the district under Cabrera High School. This is a huge move for them and really demonstrates that the students overall are performing at a high level and seeing the results in overall higher test scores. 
 
-![Top 5 High Performing Schools Revised.png](https://github.com/melaniekelsey/School_District_Analysis/blob/main/Resources/Top%205%High%20Performing%20Schools%20Revised.png)
+#### Original Top 5 High Performing Schools
+![Top 5 High Performing Schools Original.png](https://github.com/melaniekelsey/School_District_Analysis/blob/main/Resources/Top%205%20High%20Performing%20Schools%20Original.png)
+
+#### Revised Top 5 High Performing Schools
+![Top 5 High Performing Schools Revised.png](https://github.com/melaniekelsey/School_District_Analysis/blob/main/Resources/Top%205%20High%20Performing%20Schools%20Revised.png)
 
 ### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 
@@ -72,9 +80,26 @@ Once the 9th grade scores were removed, they moved up to 97.01%, making them the
 #### Thomas High School overall scores
 In the original data, Thomas High School sits in the middle at 65.07% overall passing. 
 
-In the revised data, they move up to 90.58% passing. The 9th grade scores were significantly bringing them down. 
+In the revised data, they move up to 90.58% passing. The 9th grade scores were significantly bringing them down. As mentioned previously, they move to the 2nd in overall ranking for the school district.  
 
 ### Math and Reading scores by Grade
+#### Math Scores
+The 9th graders at Thomas High School had an average Math Score of 83.6, which was ranked 2nd for the district. 
+
+#### Original Math Scores by Grade
+![Math Scores by Grade Original.png](https://github.com/melaniekelsey/School_District_Analysis/blob/main/Resources/Math%20Scores%20by%20Grade%20Original.png)
+
+#### Revised Math Scores by Grade
+![Math Scores by Grade Revised.png](https://github.com/melaniekelsey/School_District_Analysis/blob/main/Resources/Math%20Scores%20by%20Grade%20Revised.png)
+
+#### Reading Scores
+The 9th graders at Thomas High School had an average Reading Score of 83.7. They were ranking towards the top with only 2 schools with high average reading scores. 
+
+#### Original Reading Scores by Grade
+![Reading Scores by Grade Original.png](https://github.com/melaniekelsey/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade%20Original.png)
+
+#### Revised Reading Scores by Grade
+![Reading Scores by Grade Revised.png](https://github.com/melaniekelsey/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade%20Revised.png)
 
 ### Scores by School Spending
 
